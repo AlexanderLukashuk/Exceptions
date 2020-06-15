@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/exceptionLesson/homework_2task/bin/Debug/netcoreapp3.1/homework_2task.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/exceptionLesson/homework_2task/bin/Debug/netcoreapp3.1/homework_2task.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/exceptionLesson/homework_2task/bin/Debug/netcoreapp3.1/homework_2task.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/exceptionLesson/homework_2task/bin/Debug/netcoreapp3.1/homework_2task.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/exceptionLesson/homework_2task/bin/Debug/netcoreapp3.1/homework_2task.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/exceptionLesson/homework_2task/obj/Debug/netcoreapp3.1/homework_2task.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/exceptionLesson/homework_2task/obj/Debug/netcoreapp3.1/homework_2task.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/exceptionLesson/homework_2task/obj/Debug/netcoreapp3.1/homework_2task.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/exceptionLesson/homework_2task/obj/Debug/netcoreapp3.1/homework_2task.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/exceptionLesson/homework_2task/obj/Debug/netcoreapp3.1/homework_2task.pdb
